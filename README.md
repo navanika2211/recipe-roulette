@@ -7,7 +7,12 @@ Navanika Reddy , Abdullah Basarvi
 Web Development – Northeastern University  
 
 ---
+## 🌐 Live Demo
 
+- 🚀 Deployed Application: [https://recipe-roulette-y4oi.onrender.com](https://recipe-roulette-y4oi.onrender.com/index.html)
+- 🎥 Demo Video (YouTube): https://youtu.be/Vo606JroBVo
+- 📊 Presentation Slides (Google Slides): https://docs.google.com/presentation/d/1_urBH7f4Y0F_rpIejnRvPmiB7OZgT_44-w7HzTkeElE/edit?usp=sharing
+---
 ## 📌 Project Objective
 
 RecipeRoulette is a full-stack web application designed to help users stop cooking the same meals repeatedly and reduce food waste.  
