@@ -148,8 +148,6 @@ Taylor buys groceries in bulk and prepares meals weekly.
 - `recipes.html`
 - `inventory.html`
 - `roulette.html`
-- `shopping.html`
-- `dashboard.html`
 
 ### 📂 JavaScript Modules (`public/js/`)
 - `recipes.js`
